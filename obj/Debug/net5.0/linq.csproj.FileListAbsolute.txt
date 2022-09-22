@@ -1,0 +1,16 @@
+C:\Users\rdbla\workspace\csharp\exercises\linq\obj\Debug\net5.0\linq.csproj.AssemblyReference.cache
+C:\Users\rdbla\workspace\csharp\exercises\linq\obj\Debug\net5.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdbla\workspace\csharp\exercises\linq\obj\Debug\net5.0\linq.AssemblyInfoInputs.cache
+C:\Users\rdbla\workspace\csharp\exercises\linq\obj\Debug\net5.0\linq.AssemblyInfo.cs
+C:\Users\rdbla\workspace\csharp\exercises\linq\obj\Debug\net5.0\linq.csproj.CoreCompileInputs.cache
+C:\Users\rdbla\workspace\csharp\exercises\linq\bin\Debug\net5.0\linq.exe
+C:\Users\rdbla\workspace\csharp\exercises\linq\bin\Debug\net5.0\linq.deps.json
+C:\Users\rdbla\workspace\csharp\exercises\linq\bin\Debug\net5.0\linq.runtimeconfig.json
+C:\Users\rdbla\workspace\csharp\exercises\linq\bin\Debug\net5.0\linq.runtimeconfig.dev.json
+C:\Users\rdbla\workspace\csharp\exercises\linq\bin\Debug\net5.0\linq.dll
+C:\Users\rdbla\workspace\csharp\exercises\linq\bin\Debug\net5.0\linq.pdb
+C:\Users\rdbla\workspace\csharp\exercises\linq\obj\Debug\net5.0\linq.dll
+C:\Users\rdbla\workspace\csharp\exercises\linq\obj\Debug\net5.0\refint\linq.dll
+C:\Users\rdbla\workspace\csharp\exercises\linq\obj\Debug\net5.0\linq.pdb
+C:\Users\rdbla\workspace\csharp\exercises\linq\obj\Debug\net5.0\linq.genruntimeconfig.cache
+C:\Users\rdbla\workspace\csharp\exercises\linq\obj\Debug\net5.0\ref\linq.dll
